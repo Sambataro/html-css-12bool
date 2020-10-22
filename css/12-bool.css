@@ -1,7 +1,6 @@
 .debug .container {
   height: 100%;
   min-height: 100px;
-
 }
 
 /* impostazioni in comune */
@@ -74,18 +73,6 @@
   width: calc((100% / 12) * 12);
 }
 
-.col-2-bottom {
-  width: calc((96% / 12) * 2);
-}
-
-.col-8-bottom {
-  width: calc((93% / 12) * 8);
-}
-
-.col-6-bottom {
-  width: calc((96% / 12) * 6);
-}
-/*  la soluzione che ho dato per i margini */
 
 /* impostazione colonne⁄ */
 

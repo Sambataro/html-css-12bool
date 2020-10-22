@@ -6,13 +6,11 @@
   background-color: #fcc0cb;
 }
 
-.container [class*="bottom"]  {
+.col-6.padding [id*="bottom"] {
   background-color: #F07F80;
-  border-color: #F07F80;
-  margin: 1%;
+  border: 2px solid #FFF;
 }
 
 .padding {
   padding: 10px;
-  border-color: none;
 }
