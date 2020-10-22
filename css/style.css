@@ -1,0 +1,19 @@
+
+
+.container [class*="col-"] {
+  text-align: center;
+  line-height: 200px;
+  background-color: #fcc0cb;
+}
+
+.container [class*="bottom"]  {
+  background-color: #F07F80;
+  border-color: #F07F80;
+  margin: 1%;
+
+}
+
+.padding {
+  padding: 10px;
+  border-color: none;
+}
